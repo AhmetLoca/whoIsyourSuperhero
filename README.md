@@ -7,13 +7,13 @@ Bu site de png şeklinde birçok ücretsiz ve transparent özellikli resimler va
 
 filter:blur(5px);
 
-Resimlerle oynamayı, bulanıklaştırmayı, siyah-beyaz yapmayı,biraz daha parlatmayı veya resimlerin renklerini filter:blur özelliği sayesinde ters çevirebiliyoruz.
+Resimlerle oynamayı, bulanıklaştırmayı, siyah-beyaz yapmayı,biraz daha parlatmayı veya resimlerin renklerini bu özellik sayesinde ters çevirebiliyoruz.
 
 ------------------------------------------
 
 clip-path:circle(200px at center);
 
-Süper kahramanların daire şeklini clip path özelliği ile sağladık.
+Süper kahramanların daire şeklini clip-path özelliği ile sağladık.
 Clip-path özelliğinde size yardımcı olacak bir site:
 
 https://bennettfeely.com/clippy/
@@ -21,13 +21,13 @@ https://bennettfeely.com/clippy/
 -------------------------------------------
 
 
-flex-basis: 33%
+flex-basis: 33%;
 
 Elementlerin bulunduğu kapsayıcı alanda boş kalan alanları doldurmak amacıyla  kullanılır.
 
 
 -------------------------------------------
 
-flex-wrap:wrap
+flex-wrap:wrap;
 
 Gerektiğinde elementleri birden fazla satıra yayar.
